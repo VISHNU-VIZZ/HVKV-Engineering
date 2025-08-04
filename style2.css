@@ -1,0 +1,51 @@
+
+    section {
+      background: white;
+      padding: 40px;
+      max-width: 900px;
+      margin: 40px auto;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2, h3 { color: #004080; }
+    form input, form textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    form button {
+      background-color: #004080;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    form button:hover {
+      background-color: #003060;
+    }
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #004080; color: white; padding: 20px 40px; }
+    header h1 { margin: 0; }
+    nav { background: #003060; padding: 10px 40px; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+
+    .content {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 { color: #004080; }
+
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+      margin-top: 40px;
+    }
